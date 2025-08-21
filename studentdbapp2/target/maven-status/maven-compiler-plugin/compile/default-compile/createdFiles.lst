@@ -1,0 +1,6 @@
+com\example\Student.class
+com\example\UpdateStudentServlet.class
+com\example\StudentDAO.class
+com\example\DeleteStudentServlet.class
+com\example\AddStudentServlet.class
+com\example\ListStudentsServlet.class
